@@ -206,7 +206,7 @@ function breakStatement(num) {
  let i = 0;
  
  while (i < 10) {
-   if (i === num) {return "Se interrumpió la ejecución"; 
+ if (i === num) {return "Se interrumpió la ejecución"; 
    }
    i = i + 1;
    num = num + 2
